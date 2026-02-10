@@ -53,7 +53,7 @@ with col1:
     """)
     
     if st.button("Vai al RAG LangGraph", type="primary", use_container_width=True):
-        st.switch_page("pages/1_rag_lang.py")
+        st.switch_page("pages/1_rag_langraph.py")
 
 with col2:
     st.markdown("""
